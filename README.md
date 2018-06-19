@@ -1,5 +1,5 @@
 # Gradient Background Generator 
-A simple web app that generates Gradient Backgrounds.
+This is a Web App that generates Gradient Backgrounds. [Click Here](https://abhinand5.github.io/gradient-background/) to generate your own gradient background.
 ## Using the app.
 * Generate a gradient bg with two colours you want using the color picker.
 * Adjust the colours until you get a background you really like.
